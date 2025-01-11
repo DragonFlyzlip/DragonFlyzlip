@@ -13,7 +13,7 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| IPSec VPN tunnels          | <a href="https://google.com">Detection Lab</a>|
+| IPSec VPN tunnels          | <a href="https://github.com/DragonFlyzlip/Site-to-Site-VPN-Configuration-Project-Using-Palo-Alto-Firewalls/tree/main">Site-to-Site-VPN-Configuration</a>>Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Lima Charlie & Tines         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -74,5 +74,5 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 </div>
 
 ## Projects
-- Detection Lab
+- Site-to-Site-VPN-Configuration-Project
 - SOC Automation Project
