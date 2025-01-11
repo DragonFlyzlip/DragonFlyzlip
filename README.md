@@ -1,5 +1,5 @@
 # Hello, I'm Ashraf
-<a href="www.linkedin.com/in/ashraf-jamaal-06aa54169/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/ashrafjamaal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
  I'm a recent graduate with a strong foundation in cybersecurity principles, actively building skills in threat detection, vulnerability assessment, and incident response. My passion for cybersecurity drives me to continuously learn and keep up with the latest industry trends, and I'm committed to making a positive impact in the field.
