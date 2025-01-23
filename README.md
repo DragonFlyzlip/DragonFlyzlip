@@ -75,4 +75,5 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 
 ## Projects
 - Site-to-Site-VPN-Configuration-Project
-- SOC Automation Project
+- My SOAR-EDR Automation Project
+- Deploying Snort
