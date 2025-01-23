@@ -14,11 +14,12 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IPSec VPN tunnels          | <a href="https://github.com/DragonFlyzlip/Site-to-Site-VPN-Configuration-Project-Using-Palo-Alto-Firewalls/tree/main">Site-to-Site-VPN-Configuration</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Lima Charlie & Tines         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DragonFlyzlip/Deploying-SNORT-and-PulledPork-on-CentOS-7">Deploying Snort</a>|
+| Security Automation with Lima Charlie & Tines   | <a href="https://github.com/DragonFlyzlip/My-SOAR-EDR-PROJECT"> My SOAR-EDR PROJECT </a>|
+| Automated Incident Response      |  <a href="https://github.com/DragonFlyzlip/My-SOAR-EDR-PROJECT"> My SOAR-EDR PROJECT </a>|
+| Custom Playbooks             |  <a href="https://github.com/DragonFlyzlip/My-SOAR-EDR-PROJECT"> My SOAR-EDR PROJECT </a>|
+| Logging and Alerts  | <a href="https://github.com/DragonFlyzlip/Deploying-SNORT-and-PulledPork-on-CentOS-7">Deploying Snort</a>|
+
 
 ## Tools
 
