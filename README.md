@@ -9,7 +9,6 @@
 I am an aspiring cybersecurity analyst with hands-on experience in network security, penetration testing, and incident response from both academic and personal projects. I enjoy diving into various cybersecurity tools and techniques, and I'm always excited to expand my knowledge by working on real-world problems.
 ## Skills
 
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -65,7 +64,7 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
