@@ -76,6 +76,7 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 </div>
 
 ## Projects
-- Site-to-Site-VPN-Configuration-Project
-- My SOAR-EDR Automation Project
-- Deploying Snort
+- <a href="https://github.com/DragonFlyzlip/Site-to-Site-VPN-Configuration-Project-Using-Palo-Alto-Firewalls/tree/main">Site-to-Site-VPN-Configuration</a>
+- <a href="https://github.com/DragonFlyzlip/My-SOAR-EDR-PROJECT">My SOAR-EDR PROJECT </a>
+- <a href="https://github.com/DragonFlyzlip/Deploying-SNORT-and-PulledPork-on-CentOS-7">Deploying Snort</a>
+- <a href="https://github.com/DragonFlyzlip/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation<a/>
