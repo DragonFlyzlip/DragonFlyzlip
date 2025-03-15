@@ -13,7 +13,8 @@ I am an aspiring cybersecurity analyst with hands-on experience in network secur
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | IPSec VPN tunnels          | <a href="https://github.com/DragonFlyzlip/Site-to-Site-VPN-Configuration-Project-Using-Palo-Alto-Firewalls/tree/main">Site-to-Site-VPN-Configuration</a>|
-| Vulnerability Management Program | <a href="https://github.com/DragonFlyzlip/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation<a/>|
+| Vulnerability Management and Remidiation | <a href="https://github.com/DragonFlyzlip/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation<a/>|
+| Automation & Patch Management | <a href="https://github.com/DragonFlyzlip/Vulnerability-Management-Program-Implementation">Vulnerability Management Program Implementation<a/>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/DragonFlyzlip/Deploying-SNORT-and-PulledPork-on-CentOS-7">Deploying Snort</a>|
 | Security Automation with Lima Charlie & Tines   | <a href="https://github.com/DragonFlyzlip/My-SOAR-EDR-PROJECT"> My SOAR-EDR PROJECT </a>|
 | Automated Incident Response      |  <a href="https://github.com/DragonFlyzlip/My-SOAR-EDR-PROJECT"> My SOAR-EDR PROJECT </a>|
