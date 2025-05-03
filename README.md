@@ -2,11 +2,12 @@
 <a href="www.linkedin.com/in/ashrafjamaal"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
- I'm a recent graduate with a strong foundation in cybersecurity principles, actively building skills in threat detection, vulnerability assessment, and incident response. My passion for cybersecurity drives me to continuously learn and keep up with the latest industry trends, and I'm committed to making a positive impact in the field.
+Hi, I’m Ashraf — a cybersecurity enthusiast with a strong interest in solving real-world security challenges. I’ve worked on building site-to-site VPN tunnels, monitoring network traffic with Snort, and managing vulnerabilities through automation and patching tools. I’ve also developed SOAR and EDR workflows using LimaCharlie and Tines, and created custom playbooks to support efficient incident response. My experience also includes hands-on threat hunting, malware analysis, and working with logging and alerting systems to identify suspicious behavior. I’m always learning and focused on building the skills that make a real impact in cybersecurity.
 
 ## Objective
 
-I am an aspiring cybersecurity analyst with hands-on experience in network security, penetration testing, and incident response from both academic and personal projects. I enjoy diving into various cybersecurity tools and techniques, and I'm always excited to expand my knowledge by working on real-world problems.
+SOC Analyst and cybersecurity professional with hands-on experience in threat hunting, malware analysis, and incident response. Eager to apply technical skills in real-world environments to protect systems and data, while continuously learning and contributing to a proactive security culture. Seeking an opportunity to grow within a dynamic blue team, where I can support threat detection, defense automation, and incident investigation efforts
+
 ## Skills
 
 
