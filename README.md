@@ -1,5 +1,5 @@
 # Hello, I'm Ashraf
-<a href="www.linkedin.com/in/ashrafjamaal98"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ashrafjamaal98/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Hi, I’m Ashraf — a cybersecurity enthusiast with a strong interest in solving real-world security challenges. I’ve worked on building site-to-site VPN tunnels, monitoring network traffic with Snort, and managing vulnerabilities through automation and patching tools. I’ve also developed SOAR and EDR workflows using LimaCharlie and Tines, and created custom playbooks to support efficient incident response. My experience also includes hands-on threat hunting, malware analysis, and working with logging and alerting systems to identify suspicious behavior. I’m always learning and focused on building the skills that make a real impact in cybersecurity.
